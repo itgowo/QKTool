@@ -14,7 +14,7 @@ QQ：1264957104
     软件为我开发过程中积累的工具和方法的总结，我把我能实现的大部分功能放到了工具箱中，过于抽象的没有。
     软件自动更新。
     
-    软件下载请到www.lujianchao.com下载，
+    软件下载请到[link](http://lujianchao.com/)下载，
     
 ## 示例
 ![ image](https://github.com/hnsugar/QKTool/blob/master/0.gif)
