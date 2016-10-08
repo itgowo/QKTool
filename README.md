@@ -16,7 +16,7 @@ QQ：1264957104
     
     软件下载请到http://lujianchao.com/下载
     
-[link](http://lujianchao.com/)
+[http://lujianchao.com/](http://lujianchao.com/)
 ## 示例
 ![ image](https://github.com/hnsugar/QKTool/blob/master/0.gif)
 
