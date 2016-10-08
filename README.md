@@ -2,7 +2,7 @@
 
 ## 一：关键词：
 ~~~~
-晴空 工具箱  QKTool  Json 编码
+晴空 工具箱  QKTool  Json 编码 Android
 ~~~~
 
 QQ：1264957104
@@ -14,10 +14,19 @@ QQ：1264957104
     软件为我开发过程中积累的工具和方法的总结，我把我能实现的大部分功能放到了工具箱中，过于抽象的没有。
     软件自动更新。
     
-    软件下载请到www.lujianchao.com下载
+    软件下载请到www.lujianchao.com下载，
     
 ## 示例
 ![ image](https://github.com/hnsugar/QKTool/blob/master/0.gif)
+
+#### Android调试工具之读取手机App数据库，其他功能未展示
+![ image](https://github.com/hnsugar/QKTool/blob/master/7.png)
+ 
+![ image](https://github.com/hnsugar/QKTool/blob/master/8.png)
+ 
+![ image](https://github.com/hnsugar/QKTool/blob/master/9.png)
+ 
+![ image](https://github.com/hnsugar/QKTool/blob/master/2.png)
 
 #### 编码转换、下载链接转换
 ![ image](https://github.com/hnsugar/QKTool/blob/master/1.png)
@@ -40,11 +49,7 @@ QQ：1264957104
 #### Json解析调试
 ![ image](https://github.com/hnsugar/QKTool/blob/master/11.png)
 
-#### Android调试工具之读取手机App数据库，其他功能未展示
-![ image](https://github.com/hnsugar/QKTool/blob/master/7.png)
- 
-![ image](https://github.com/hnsugar/QKTool/blob/master/8.png)
- 
-![ image](https://github.com/hnsugar/QKTool/blob/master/9.png)
- 
-![ image](https://github.com/hnsugar/QKTool/blob/master/2.png)
+#### FTP工具
+![ image](https://github.com/hnsugar/QKTool/blob/master/12.png)
+
+
