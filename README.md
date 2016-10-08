@@ -16,7 +16,7 @@ QQ：1264957104
     
     
 ## 示例
-![ image](https://github.com/hnsugar/SearchSidebar/blob/master/SearchSidebar.gif)
+![ image](https://github.com/hnsugar/QKTool/blob/master/0.gif)
 
  
  
