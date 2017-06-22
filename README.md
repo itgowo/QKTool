@@ -61,4 +61,8 @@ QQ：1264957104
 #### FTP工具
 ![ image](https://github.com/hnsugar/QKTool/blob/master/12.png)
 
+#### 二维码工具
+![ image](https://github.com/hnsugar/QKTool/blob/master/13.png)
 
+#### Http数据接收查看工具
+![ image](https://github.com/hnsugar/QKTool/blob/master/14.png)
