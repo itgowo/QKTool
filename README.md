@@ -15,9 +15,13 @@ QQ：1264957104
     软件自动更新。
     
     软件下载请到http://lujianchao.com/下载
+    
     软件下载请到http://itgowo.com/下载
+    
     阿里云下载地址http://itgowo.oss-cn-qingdao.aliyuncs.com/download/app/qktool/%E6%99%B4%E7%A9%BA%E5%B7%A5%E5%85%B7%E7%AE%B1.zip
+    
 [http://lujianchao.com/](http://lujianchao.com/)
+
 ## 示例
 ![ image](https://github.com/hnsugar/QKTool/blob/master/0.gif)
 
