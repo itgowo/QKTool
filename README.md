@@ -26,43 +26,48 @@ QQ：1264957104
 [http://lujianchao.com/](http://lujianchao.com/)
 
 ## 示例
-![ image](https://github.com/hnsugar/QKTool/blob/master/0.gif)
+![ image](https://github.com/hnsugar/QKTool/blob/master/1.png)
 
 #### Android调试工具之读取手机App数据库，其他功能未展示
-![ image](https://github.com/hnsugar/QKTool/blob/master/7.png)
+![ image](https://github.com/hnsugar/QKTool/blob/master/3.png)
  
 ![ image](https://github.com/hnsugar/QKTool/blob/master/8.png)
  
 ![ image](https://github.com/hnsugar/QKTool/blob/master/9.png)
  
-![ image](https://github.com/hnsugar/QKTool/blob/master/2.png)
+#### 屏幕录像Gif
+![ image](https://github.com/hnsugar/QKTool/blob/master/14.png)
 
 #### 编码转换、下载链接转换
-![ image](https://github.com/hnsugar/QKTool/blob/master/1.png)
+![ image](https://github.com/hnsugar/QKTool/blob/master/7.png)
 
 #### 查看网络连接
-![ image](https://github.com/hnsugar/QKTool/blob/master/3.png)
-
-#### GUID 、UUID生成器
-![ image](https://github.com/hnsugar/QKTool/blob/master/4.png)
-
-#### 功能比较多的科学计算器：大数、傅里叶、微积分、曲线拟合、复数等
-![ image](https://github.com/hnsugar/QKTool/blob/master/5.png)
-
-#### 后台管理，可上传新版软件更改服务器设置等
-![ image](https://github.com/hnsugar/QKTool/blob/master/6.png)
-
-#### 快速启动列表编辑
 ![ image](https://github.com/hnsugar/QKTool/blob/master/10.png)
 
-#### Json解析调试
+#### GUID 、UUID生成器
+![ image](https://github.com/hnsugar/QKTool/blob/master/19.png)
+
+#### 功能比较多的科学计算器：大数、傅里叶、微积分、曲线拟合、复数等
 ![ image](https://github.com/hnsugar/QKTool/blob/master/11.png)
 
+#### 更改设置(显示文字皮肤等)
+![ image](https://github.com/hnsugar/QKTool/blob/master/18.png)
+![ image](https://github.com/hnsugar/QKTool/blob/master/17.png)
+![ image](https://github.com/hnsugar/QKTool/blob/master/16.png)
+![ image](https://github.com/hnsugar/QKTool/blob/master/15.png)
+
+#### 快速启动列表编辑
+![ image](https://github.com/hnsugar/QKTool/blob/master/2.png)
+
+#### Json解析调试
+![ image](https://github.com/hnsugar/QKTool/blob/master/20.png)
+
 #### FTP工具
-![ image](https://github.com/hnsugar/QKTool/blob/master/12.png)
+![ image](https://github.com/hnsugar/QKTool/blob/master/5.png)
+![ image](https://github.com/hnsugar/QKTool/blob/master/6.png)
 
 #### 二维码工具
 ![ image](https://github.com/hnsugar/QKTool/blob/master/13.png)
 
 #### Http数据接收查看工具
-![ image](https://github.com/hnsugar/QKTool/blob/master/14.png)
+![ image](https://github.com/hnsugar/QKTool/blob/master/12.png)
