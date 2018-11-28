@@ -21,7 +21,7 @@ QQ：1264957104
     
     软件下载请到http://itgowo.com/下载
     
-    阿里云下载地址http://itgowo.oss-cn-qingdao.aliyuncs.com/download/app/qktool/%E6%99%B4%E7%A9%BA%E5%B7%A5%E5%85%B7%E7%AE%B1.zip
+    阿里云下载地址http://file.itgowo.com/download/app/qktool/%E6%99%B4%E7%A9%BA%E5%B7%A5%E5%85%B7%E7%AE%B1.zip
     
 [http://lujianchao.com/](http://lujianchao.com/)
 
